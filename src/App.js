@@ -8,10 +8,10 @@ function App() {
           OpenMind.
         </p>
         <a
-          href='mailto:ask@openmind.ai'
+          href='mailto:ask@openmind.org'
           style={{ fontFamily: 'Poppins, sans-serif', color: 'grey', style: 'none', fontSize: 18 }}
         >
-          ask@openmind.ai
+          ask@openmind.org
         </a>
       </header>
     </div>
